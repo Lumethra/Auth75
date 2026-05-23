@@ -32042,7 +32042,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25076"
+		(property "LCSC Part" "C22775"
 			(at 266.7 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -33333,7 +33333,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4180"
+		(property "LCSC Part" "C22975"
 			(at 254 27.94 0)
 			(hide yes)
 			(show_name no)
