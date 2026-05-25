@@ -21,11 +21,13 @@ This is a 75% keyboard with a fingerprint sensor. What? A fingerprint sensor in 
 
 ## Why? 
 
-I always wanted a good keyboard with a working fingerprint sensor, because my password is always too long and I am used to the one on my laptop. Why not just use the one on my laptop? Because I want to close my laptop lid while using
+I always wanted a good keyboard with a working fingerprint sensor, because my password is always too long and I am used to the one on my laptop. Why not just use the one on my laptop? Because I want to close my laptop lid while using a monitor. The second reason is that the one on my laptop doesnt work on Linux, so I wanted to make compatible with my main OS. 
 
 ---
 
 ## How? 
+
+I did some research and found out that the Framework 13 Fingerprint Reader isnt tied to their motherboard, unlike Lenovo or Dell. I also found a [Framework-Community-Post](https://community.frame.work/t/framework-fingerprint-scanner-for-a-desktop-pc/29845), where the people managed to use the sensor via USB-C. They also found out that the D+ and D- pins are inverted. A huge thank you to these guys. After buying the sensor and testing its functionalty at home, I decided on using a USB-Hub to have the fingerprint reader and the keyboard MCU in on connector. Frameworks support also helped me out with the fingerprint sensor datasheet. And now I've got a 75% keyboard with a working fingerprint sensor. 
 
 ---
 
@@ -87,6 +89,11 @@ I always wanted a good keyboard with a working fingerprint sensor, because my pa
 
 ## Contribute
 
+Want to make it better? Found some bugs? Feel free to open a PR (pull request) and lets make the project better. ^_^
+
 ---
 
 ## Thank you
+
+A huge thank you to all these guys helping me out with my project. <br>
+[@eggsplats](https://github.com/geg-tech), [@Kai Pereira](https://github.com/KaiPereira), [@Aadit Bhambri](https://github.com/abinnovator), [@technical_.](https://github.com/techn1-cal), [@Tanuki](https://github.com/TaniWanKenobi), my sister, Framework support, my [friend](https://github.com/Chroma165) for the 3d models and my [other friend](https://github.com/Leonhoch5) for the emotional support
