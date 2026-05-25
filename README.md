@@ -83,7 +83,8 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 | Capacitors | smooth out the power | $0.0032 - $0.0110 | 14 | ~$0.0956 | C15849, C19666, C14663 | [JLCPCB](https://jlcpcb.com/) |
 
 > the prices can vary depending on the provider <br>
-> you can find the JLCPCB parts on [LCSC](https://lcsc.com/) too (exept the PCB and the Pico)
+> you can find the JLCPCB parts on [LCSC](https://lcsc.com/) too (exept the PCB and the Pico) <br>
+> note: u could solder a pico 2 on there instead, cause its physically the same
 
 ---
 
