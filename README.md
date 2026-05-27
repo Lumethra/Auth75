@@ -110,5 +110,5 @@ Want to make it better? Found some bugs? Feel free to open a PR (pull request) a
 
 A huge thank you to all these guys helping me out with my project. <br>
 [@eggsplats](https://github.com/geg-tech), [@Kai Pereira](https://github.com/KaiPereira), [@Aadit Bhambri](https://github.com/abinnovator), [@technical_.](https://github.com/techn1-cal) and [@Tanuki](https://github.com/TaniWanKenobi) for helping out on my way and inspiring me with their passion and projects. <br>
-Another thank you to my sister (for **some** of the art), the Framework support (for the datasheet of the sensor), the guys in the [Framework-Community-Post](https://community.frame.work/t/framework-fingerprint-scanner-for-a-desktop-pc/29845) (for the functionality of the sensor), my [friend](https://github.com/Chroma165) (for the 3d models) and my [other friend](https://github.com/Leonhoch5) (for the emotional support)
+Another thank you to my sister (for **some** of the art), the Framework support (for the datasheet of the sensor), the guys in the [Framework-Community-Post](https://community.frame.work/t/framework-fingerprint-scanner-for-a-desktop-pc/29845) (for the functionality of the sensor), my [friend](https://github.com/Chroma165) (for the case and 3d model of the fingerprint sensor) and my [other friend](https://github.com/Leonhoch5) (for the emotional support)
 > Thank you guys <3
