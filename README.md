@@ -43,6 +43,10 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 | <img alt="Auth75 Front without Components" src="https://github.com/Lumethra/Auth75/blob/main/Images/PCB-Front-No-Components.png" /> |
 | <img alt="Auth75 Back without Compoenents" src="https://github.com/Lumethra/Auth75/blob/main/Images/PCB-Back-No-Components.png" /> |
 
+| Case |
+| --- |
+| <img alt="Auth75 Case" src="https://github.com/Lumethra/Auth75/blob/main/Images/Case.png" /> |
+
 ---
 
 ## PCB + Schematics
