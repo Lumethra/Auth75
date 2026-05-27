@@ -46,6 +46,8 @@ I did some research and found out that the Framework 13 Fingerprint Reader isnt 
 | Case |
 | --- |
 | <img alt="Auth75 Case" src="https://github.com/Lumethra/Auth75/blob/main/Images/Case.png" /> |
+| Thank you Chroma for making this wonderful case |
+| The case source files are [here](https://cad.onshape.com/documents/94c98908253eab7c65b6f4cc/w/cb3c129046b9b5460a1f53f5/e/8f22757c89f8236cf1eb1f99?renderMode=0&uiState=6a16d4e81bc895272aca484b) |
 
 ---
 
