@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Framework") (type "KiCad") (uri "${KIPRJMOD}/lib/Framework.pretty") (options "") (descr ""))
+	(lib (name "Silkscreen") (type "KiCad") (uri "${KIPRJMOD}/lib/Silkscreen") (options "") (descr ""))
+)
