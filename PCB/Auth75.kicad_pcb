@@ -191,6 +191,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fae404e4-7a65-4485-843d-1ef3fe7cb43d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/95e830e3-2304-404f-8e8a-10cf3baf80c5")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -862,6 +875,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5023ba29-bdae-4349-b11b-162e4e149101")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5a434c0d-7660-481e-868f-294a22c1103b")
 		(sheetname "/")
@@ -1014,6 +1040,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "581bb5e1-d925-4ae5-81bb-cf622ef03e64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9718d7bf-10dc-4998-a529-51862c3e2ffa")
 			(effects
 				(font
 					(size 1 1)
@@ -1680,6 +1719,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "907ca51c-6ddb-45fc-bbbc-8ed103fc8648")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/43eac1b4-e81a-4c7e-bbad-183875b29198")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -2339,6 +2391,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "760bcba5-16e4-46ab-b8ec-4498322d5dfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2af2f737-186f-4120-836e-a72099ff90c5")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -2991,6 +3056,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c7326f0-fadb-41f4-8451-5c48027039d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6614dabb-53c4-4bff-84cd-be7f80627c3d")
 			(effects
 				(font
 					(size 1 1)
@@ -3942,6 +4020,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b99efce0-13f2-4784-ab25-b3fde446eb9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4b0ed8b5-d3e4-482c-b6c2-0392e500b729")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -4363,6 +4454,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f42dabe-a34b-4410-a6c2-af0d3ddb2bb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a72b3df8-b4c1-42eb-b6df-d46b7a87440d")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -4745,6 +4849,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2307f90-f0e1-4cf2-bfaf-f1541bf9b2fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2af15b7-4c25-4e54-9bba-ed27a76cd293")
 			(effects
 				(font
 					(size 1 1)
@@ -5411,6 +5528,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a46cc9e-d0d5-4a45-b27d-320e83998e77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5a6c399a-688b-49ab-a875-34c894a364ba")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -6063,6 +6193,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d4801bef-9691-4077-ad20-1b29f9e2d161")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25d23cc7-e7d8-45c4-8bf9-1ecd78c9d4b1")
 			(effects
 				(font
 					(size 1 1)
@@ -6829,6 +6972,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8fd9ef8d-5dd1-4721-a49a-d765c6bea704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55e05df4-23ce-476c-9459-effd7061518f")
 			(effects
 				(font
 					(size 1 1)
@@ -7625,6 +7781,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d172be76-e90d-4277-8664-d9e376b3f5a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4cabc79c-9be2-4150-9f59-b83ef01a485d")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -8042,6 +8211,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29e84c7f-1162-4a40-83e2-40d124563202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94064682-d709-4652-973c-1c963edec216")
 			(effects
 				(font
 					(size 1 1)
@@ -10501,6 +10683,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29b6c504-78fa-418a-ae7b-003d20e29d38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e6cc2087-c8d4-4e7e-95a5-63ca9d98b48c")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -10883,6 +11078,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e1dfccf-2aa9-4e69-ac7c-feb5eca793ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5e0740f-107c-41a8-ab43-86cd8443988a")
 			(effects
 				(font
 					(size 1 1)
@@ -11549,6 +11757,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb46305a-bfea-4bef-a3ce-880a5da5465a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6d53b0a3-44b5-4bea-9864-73d6f0f5c330")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -12201,6 +12422,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e9defca-546e-4930-876a-1c1454ea0a60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e408621-a395-43cb-8dce-f2be01b86fd9")
 			(effects
 				(font
 					(size 1 1)
@@ -12890,6 +13124,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0473514d-d868-4f62-970d-619c5b5b851c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b5148632-0bcd-496d-8303-6d25a9120e9a")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -13272,6 +13519,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c4290482-21c3-4d7e-a4e7-3a309c458a72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a50566e6-589a-4b01-8a5c-ecee4b6aac66")
 			(effects
 				(font
 					(size 1 1)
@@ -13938,6 +14198,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92dd03f5-80a1-46b8-90d8-72a6f1e7b398")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/29df3e94-cfaa-4893-87ed-e98d47c453d7")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -14590,6 +14863,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84aa1dcb-be83-48ed-9b7f-9a57e3e00703")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94647212-ae65-4ee8-b4c5-7ce7586e5776")
 			(effects
 				(font
 					(size 1 1)
@@ -15256,6 +15542,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42bad3e9-a6f4-4ca1-8fa6-d6d0df2046ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/41d745a4-7a5e-4189-a5e6-b7b9affdc39a")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -15915,6 +16214,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ec3f40a-dccb-4155-b8e9-2a513cd1f3b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0bb1679-00c5-4259-b3f6-013269ab64c6")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -16567,6 +16879,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "462ce258-d705-4bec-9f82-1b6719a409a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8c4f232-3769-4857-8888-f01ec0836415")
 			(effects
 				(font
 					(size 1 1)
@@ -17438,6 +17763,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a94ef35-2118-4d37-a5f5-6b6eb8412481")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/42a9b0a5-4160-44fd-a593-6fe0fd4633ea")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -18090,6 +18428,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48e92a18-79ac-47f7-a618-0386845f4984")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2006101c-3709-423a-b0b3-ed54215c98c1")
 			(effects
 				(font
 					(size 1 1)
@@ -18756,6 +19107,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb2a28cf-c995-4baa-9e61-b87c1ed58906")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e99aa57f-d0e8-4496-9372-765418434630")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -19408,6 +19772,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a02695c-b84b-4b45-a7e5-f4deeb24a6df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f50b0a47-3c4d-47bf-814a-e3fbabfdc030")
 			(effects
 				(font
 					(size 1 1)
@@ -20074,6 +20451,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82a3d716-65c8-4286-8f3a-f439ccb0fcbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5d8846e2-6ca0-4cce-83c5-b35a653e0716")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -20726,6 +21116,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "718a8008-35c6-4c70-b0d6-23a8e0d81a4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baf9af55-c6e6-4491-9abe-2f13dde2f61e")
 			(effects
 				(font
 					(size 1 1)
@@ -22041,6 +22444,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "481587e6-63b1-485a-813e-89cae0c079ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/82c77275-29f5-45ae-9724-60d63619b339")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -22693,6 +23109,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6485387-01ce-42c6-9cb4-e7ab07872087")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17c7adeb-ba95-4d83-b6ff-967ebd4137c5")
 			(effects
 				(font
 					(size 1 1)
@@ -23359,6 +23788,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f1c2115-33c3-4fee-991a-5b7be852f253")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8dfcb920-e9f7-4d43-97b9-8a659083b430")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -24018,6 +24460,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b4d6676-cdcf-4bf1-ba76-25fc0365da32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/41c13ecc-4ee5-409a-a380-4b28cc0c986a")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -24670,6 +25125,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c07afea-6b8c-4fe5-8708-150b309ab7f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e13356c7-b8e1-44f8-8f94-673260f83a74")
 			(effects
 				(font
 					(size 1 1)
@@ -25697,6 +26165,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbd56875-409b-40c4-9dd4-a4ae9a19a4d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b7ba30ce-cc48-4cec-9905-27a537ad6b3e")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -26379,6 +26860,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39171262-f7d1-4649-803f-65ee31b6e7db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c6ef8e23-6983-4ed7-b55e-40c0cb6fd801")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -26761,6 +27255,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0e66c9db-6723-416b-8a3f-33dbc79fcbf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61bcbb14-13b0-46be-97d4-b748670286f5")
 			(effects
 				(font
 					(size 1 1)
@@ -27427,6 +27934,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05fb6bcf-10fa-481c-b09f-38057b298800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/055e1a9e-46d3-45af-84d4-24dc33dc3c51")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -28086,6 +28606,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dde89ac4-3d14-4554-8377-30baeb7aa18d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/212f907c-ff2f-4cbe-b01a-f64384cbeae8")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -28738,6 +29271,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75e3e3c1-57cc-403f-8232-99daecc57a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39e1746f-fbb7-4e73-a839-bbd693371600")
 			(effects
 				(font
 					(size 1 1)
@@ -31901,6 +32447,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b72da73-aae5-4f17-94e2-a9061c8753b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c7bf4808-8ad8-4572-892f-054ce26c2c0c")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -32560,6 +33119,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cbdcaa6-7146-4193-ad05-c2f5ed8ea5ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d1545665-ed3e-46ac-a1bd-225c928dab67")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -33212,6 +33784,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56738b0a-4e62-413f-b327-8e0a8b209ef3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68e9fd8c-eec4-4c96-8946-41e7bfd054af")
 			(effects
 				(font
 					(size 1 1)
@@ -34297,6 +34882,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcfd49be-ac5b-4376-b56e-aa90dfca1b7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dcf0d1e6-367a-493d-aa20-e9bd835a7be6")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -34949,6 +35547,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cab745da-3e1f-49f4-b932-df35882d978d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b989484f-f4ce-42fd-92b0-735d39553415")
 			(effects
 				(font
 					(size 1 1)
@@ -35615,6 +36226,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b0f21b5-f9c4-4e5f-8001-9eda03f1bf5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/904d86ab-6eb1-42b5-a45f-2ba13a61a0c5")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -36267,6 +36891,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8a9a40b-328e-435a-a416-3056c96ac5e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc7b8365-8912-46d9-9f59-5d5d2daae31a")
 			(effects
 				(font
 					(size 1 1)
@@ -36933,6 +37570,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9129db3b-06d6-4a47-be0d-8d0080ada7df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/58a9a223-35a0-44dd-9489-ce5c9013c6e6")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -37585,6 +38235,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16134e1e-ae63-4485-8913-88c57f4c854b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a39f5c9-df09-4c95-a35a-53df2d9dd315")
 			(effects
 				(font
 					(size 1 1)
@@ -38251,6 +38914,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e54a4fa8-8dcd-4652-92e2-b1e06e7d27b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d7399b3a-8f09-466a-ab63-bc5895378354")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -38903,6 +39579,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f49ea47-b5bf-4b52-9a56-811862fea273")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f003390-c2dc-43f2-acc7-803ac0812265")
 			(effects
 				(font
 					(size 1 1)
@@ -39569,6 +40258,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6517e89f-7c9e-44d8-9123-f54089c4000d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7179fd3a-1170-4e87-8f47-6d0d88d8d3d3")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -40228,6 +40930,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea1b0194-7fd3-40de-bab4-e1f095cb84ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4718f297-940f-4b71-b882-c4180ad6e502")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -40880,6 +41595,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b84623a-d10a-48f4-9a61-8e10aa35cb3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0f81c4f-1bd5-4ee1-a177-34a3e484d032")
 			(effects
 				(font
 					(size 1 1)
@@ -41569,6 +42297,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3fd5c17-f44c-44b7-a8af-61d7a2d43787")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/82638fe6-57ef-46f1-a58e-216bef9696a5")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -41933,6 +42674,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c26477a4-8ced-423a-8c9b-6f71b74bdcf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7a519f5-318c-46b2-abca-6b22054ba07b")
 			(effects
 				(font
 					(size 1 1)
@@ -42599,6 +43353,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c89d5f1-71f6-4fa6-b440-1efe8cce806d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c3e1c422-0467-48e8-a815-57e11d654085")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -43251,6 +44018,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66695a34-cfd0-4996-a434-05bd2af235e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7218e54b-2299-4116-a6c5-f703ba3f5071")
 			(effects
 				(font
 					(size 1 1)
@@ -43917,6 +44697,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dba5ce2-de75-4aef-a681-2d1ea13e0f02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/598ad642-249c-42f4-8356-4d695a897e61")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -44569,6 +45362,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "918a0d4b-4999-4b4f-b2a6-04114e834334")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0309a15-e067-4594-9630-7bd3089bfc1c")
 			(effects
 				(font
 					(size 1 1)
@@ -45235,6 +46041,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c75309ee-0d19-4071-9be8-6506af7662dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7c9acbb1-dc02-497b-baaf-586a1290ea38")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -45887,6 +46706,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5fd8ee72-d20a-4eca-b6af-c563a1a9b82a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a07945f7-aee0-40d1-a095-5ab425e9c0eb")
 			(effects
 				(font
 					(size 1 1)
@@ -46553,6 +47385,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7987bb3e-9239-4cdb-8a11-b62b31c3ae3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9ea5d3b8-188d-42db-8aed-bd599bf4b05c")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -47205,6 +48050,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6bc8a5f0-4e97-4959-853e-c139dae8b205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6848fee5-2fc0-4d28-9278-988d3330e21a")
 			(effects
 				(font
 					(size 1 1)
@@ -47871,6 +48729,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a89b9b2-c36e-41aa-8aae-431754e0da44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fe5b3397-e63f-40f2-9e5a-30add5bac453")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -48523,6 +49394,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "725acd54-8e56-487b-a7ed-ddca893acabb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "120a6da0-7365-462a-8784-c1ff71eb0bde")
 			(effects
 				(font
 					(size 1 1)
@@ -49189,6 +50073,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10a1ebf2-dbe0-4c38-88ec-9dafed8873da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e6e6e3fe-1164-4730-93b7-408191274e06")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -49841,6 +50738,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2447bc0-62fc-44c1-ac40-bb32532001b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69ae0442-26b4-4e17-abff-22a1a023764c")
 			(effects
 				(font
 					(size 1 1)
@@ -50507,6 +51417,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1077100-c2a5-4a92-89f9-28c72f751861")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/26822483-62a0-4b1e-b8d5-b024cafab2e2")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -51159,6 +52082,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64afa84c-5e85-4472-a127-9e76f61cd15e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8df96a5-1296-4992-b762-8c08d26dde1a")
 			(effects
 				(font
 					(size 1 1)
@@ -52030,6 +52966,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07c42d32-548a-4c9e-a444-99ea9d09f77c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cefd2b82-415a-4131-8575-0238a667c699")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -52796,6 +53745,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25740da0-af3b-4d5d-982e-ac3100491c48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7e8ac41f-5e07-4377-aa42-a545f68286f1")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -53467,6 +54429,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42d60e8f-750a-4233-bc60-781bcfbb4022")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c362fc07-c947-424b-861c-e00a8387f2a4")
 		(sheetname "/")
@@ -53619,6 +54594,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95764ed2-b181-4b45-a16e-59ab02260444")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e09b5b4-9085-4c34-993e-f0710c438fb9")
 			(effects
 				(font
 					(size 1 1)
@@ -54285,6 +55273,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a49a620-51b3-47f4-933e-1a00bc2eb307")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cbe3cf20-8f56-42c8-9b93-c87e758174b4")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -54937,6 +55938,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "964f0dd0-5133-4b2f-b1f1-2548d811e44e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54047728-3d88-449c-a4de-b9b8a060ac91")
 			(effects
 				(font
 					(size 1 1)
@@ -55808,6 +56822,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbbe3840-4383-4123-a36f-2f8360d6203e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/347a00d4-4d66-4c4d-8f8d-8b4e68d2d77f")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -56460,6 +57487,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5be59f08-9776-4bfe-9c8a-8b4712c6acc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac6ddd0e-3ad1-4c6f-b612-b86deec935d6")
 			(effects
 				(font
 					(size 1 1)
@@ -57126,6 +58166,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4efbd41e-43ec-4f60-bb7e-043601e95962")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/90706cf4-d755-4fd6-9b07-36856c4f7ecf")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -57785,6 +58838,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59e5cf3b-2697-44ca-a468-a1b9acf23c25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2b19366e-988d-471e-b1dc-8593f4316465")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -58437,6 +59503,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80a461be-cf96-477b-9f93-fe7a13623880")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dab8faf6-26a6-4389-a51c-21828c15c1f5")
 			(effects
 				(font
 					(size 1 1)
@@ -73042,6 +74121,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90a5060b-a221-48f3-88b1-4808e4f5a520")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5fcae574-1a08-4599-95ba-783672c88dbb")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -73694,6 +74786,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7e6fc0e-4487-4d4c-8bb1-43eb3ecef6bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e05ae952-ec8f-47b8-9bb2-e2a4a2803d5f")
 			(effects
 				(font
 					(size 1 1)
@@ -74360,6 +75465,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "907724ba-00be-4903-b6b5-21a26e783299")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f59b4a20-14f2-4830-a603-ee70c73809ef")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -75019,6 +76137,19 @@
 				)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a890b92-0f05-4935-b32a-417a4c43261a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/98f8745d-913c-478d-97c4-473ad983665c")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -75671,6 +76802,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e38dc261-d17f-4009-bcbb-9ce93c694582")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60853a0b-c341-4f95-a994-2762ec39d706")
 			(effects
 				(font
 					(size 1 1)
@@ -76801,6 +77945,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d484b78-00b0-46f3-9cde-ef4aab5887b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e3e9ed88-073d-4d37-8358-a6bcd639a924")
 		(sheetname "/")
@@ -76916,7 +78074,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "fb9bf882-5a95-40e3-b162-65738afbfaa5")
@@ -76965,12 +78123,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ee4ff5f8-d177-484e-950c-1d2d09e4fae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "52500563-eabe-45e6-a839-170d1980493c")
 			(effects
 				(font
 					(size 1 1)
@@ -77140,6 +78312,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e5545b29-e298-4e91-9c1e-dcfb5aa4ce75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e7f14718-08a1-4a06-be2b-3a89f1dd9961")
 			(effects
 				(font
 					(size 1 1)
@@ -77478,6 +78664,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8d0d506-6f4e-4e30-ae7e-d9b018c8be83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/725c88f0-9a70-46d1-b896-3d41861d553d")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -77742,6 +78942,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f68a3e5c-8fc0-472e-baa4-5d933f78f80b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3bb2d96a-0f63-4216-9474-163257c66179")
 		(sheetname "/")
@@ -77903,6 +79117,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c38fbd65-35e1-4245-a661-fbce2b0a688c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "776c8cfb-75f3-4325-a9dc-f060628cd6f0")
 			(effects
 				(font
 					(size 1 1)
@@ -78212,6 +79440,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "aa4c7374-3279-4689-8c53-4c945e9504c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25a0cf48-a045-4b5e-bdfc-903e1689a885")
 			(effects
 				(font
 					(size 1 1)
@@ -78530,6 +79772,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "44eeb5c6-c328-40fa-91a2-65e4e916aabf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cfc182c2-27ab-40b1-acc1-c65d7f26b524")
 			(effects
 				(font
 					(size 1 1)
@@ -80194,6 +81450,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "05612293-42ae-4207-a306-9d9dccedbddd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/1a6e1e66-9f2f-4701-aa55-2061f7b16967")
 		(sheetname "/")
@@ -80495,6 +81765,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "313d1090-6ed5-461a-ba8e-26cf282d7219")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ebc7df58-1a67-40e0-84fd-de1eaf14eca2")
 			(effects
 				(font
 					(size 1 1)
@@ -80821,6 +82105,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "05b160ee-770f-4381-9f6a-faf8975b7cac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8c7158f7-e726-4d99-a7e6-2823a0c823a5")
 		(sheetname "/")
@@ -80982,6 +82280,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5516a03-10d5-4777-9574-852356a66bdf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "98f93754-631e-4e19-9b41-eb7f81b45845")
 			(effects
 				(font
 					(size 1 1)
@@ -81622,6 +82934,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "916fcc63-2bfe-47d4-a556-63d48ab29e5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d82b7231-e881-407a-a7b8-2f650ad99614")
 		(sheetname "/")
@@ -81877,7 +83203,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "7281349c-ecfe-4445-b918-1679c90bb138")
@@ -81926,12 +83252,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d398f9a8-c3c9-4c92-95ec-1b117a3291d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d45d6bf4-77a6-4109-ae37-e37658c678dc")
 			(effects
 				(font
 					(size 1 1)
@@ -82101,6 +83441,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ca8dc42f-bea7-45d3-9150-6ecc277c8830")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "594f3401-237d-4d22-84af-41719c1f461c")
 			(effects
 				(font
 					(size 1 1)
@@ -82418,6 +83772,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "789dcb01-1f99-4dcf-a61e-3d05cb6cdf83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5700b9a2-c76a-4d44-a4de-3dc27cff0b7d")
 		(sheetname "/")
@@ -82719,6 +84087,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea2311a3-ed24-44e5-8fce-3fac6c756073")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8dbc68e4-b94c-4af7-89fd-da29d69f9593")
 			(effects
 				(font
 					(size 1 1)
@@ -83036,6 +84418,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee454165-abc5-4a0a-9036-c54b581e0ff2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/31cee955-6ddf-4916-b648-f3451a2d4d88")
 		(sheetname "/")
@@ -83337,6 +84733,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f58a640f-39a8-470d-a65e-fb93c41250d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06d9e7ec-b2fc-49ed-ab4b-f7194e17b7b2")
 			(effects
 				(font
 					(size 1 1)
@@ -83663,6 +85073,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a170338c-0135-4c8e-ab1b-39b9d24c1019")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fd898cf8-70d4-4742-b430-c3a87aeb2e7d")
 		(sheetname "/")
@@ -83833,6 +85257,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "933b8fcd-b155-4e03-a2a9-4f774213a294")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "715e291a-0a27-4479-bdf1-86f9f3f642e4")
 			(effects
 				(font
 					(size 1 1)
@@ -84019,6 +85457,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "faa999a5-47e1-4bc0-bb72-effffa37d1c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4ce444c7-89bc-4060-8a5a-569d05c5c19c")
 		(sheetname "/")
@@ -84197,6 +85649,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6dc16925-6275-4b83-81e5-3456cc6800fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/faefc999-8b50-447f-a04c-b6a0cc60eda4")
 		(sheetname "/")
@@ -84358,6 +85824,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "945158e3-e932-4af5-bdfd-546d34b47115")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4699b0e3-de18-4b33-a697-d688bf7ec274")
 			(effects
 				(font
 					(size 1 1)
@@ -84696,6 +86176,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25d4e8e7-6295-4350-b9e4-c38e1098e58d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bc87d88a-edd9-42da-8742-fe8ac398b3cf")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -84943,6 +86437,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "aeb6f9ac-976e-4bce-bd33-16d8761f1a1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "baaba3a4-12f0-4518-819d-888e76c72e15")
 			(effects
 				(font
 					(size 1 1)
@@ -85260,6 +86768,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e2897834-d5ac-4453-a137-a1f66e34af08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5b011974-d2f3-4e90-827d-a258013a177a")
 		(sheetname "/")
@@ -85561,6 +87083,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "90cc7ae5-066d-492a-8227-57cdcc42a8a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a901844c-04ee-4826-8d11-645826fe6e8c")
 			(effects
 				(font
 					(size 1 1)
@@ -85878,6 +87414,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2b98729d-42fe-46ab-bd0f-61f3da5a1b83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/30e9c3dc-cee1-4d4b-af9b-2e10e555831e")
 		(sheetname "/")
@@ -86179,6 +87729,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5efa4c35-497b-4557-b9a1-40df7d974a8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8aecfcbc-1e5f-40e0-938a-dcb89a762041")
 			(effects
 				(font
 					(size 1 1)
@@ -86505,6 +88069,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a63b1abe-7188-4c6c-b905-924e3e110a0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eaa30390-e306-440a-90ee-824d4dfcd92a")
 		(sheetname "/")
@@ -86666,6 +88244,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4522eeed-9f8f-4e91-949c-8db6a8e39991")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65566bf2-7465-4b7e-b22e-2a435d420d2c")
 			(effects
 				(font
 					(size 1 1)
@@ -86983,6 +88575,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f13845fc-de80-42b7-8f4c-7839e64d0cb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/18a858fd-3a10-4c24-b788-e85e345331a7")
 		(sheetname "/")
@@ -87284,6 +88890,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d49f7fc9-fe4c-4e84-8538-3bb3aec55d51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a7a2be41-4535-4ee9-be85-689b0f4ff6ca")
 			(effects
 				(font
 					(size 1 1)
@@ -87601,6 +89221,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f1acac3d-4312-4e14-a63e-cfbbc3a953b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/f1be7e85-dde4-4858-949c-8d6576cb08e7")
 		(sheetname "/")
@@ -87910,6 +89544,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "33c3d80e-36f0-4994-98a6-075d3ddd8ba7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/c14f2da5-61fb-49cd-8fd4-c87c419fcdc4")
 		(sheetname "/")
@@ -88211,6 +89859,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b17a34e1-0a0e-44cc-99cd-a90c6820a8e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c749ab80-aacd-4b5e-bb1d-6b74694f46c9")
 			(effects
 				(font
 					(size 1 1)
@@ -88537,6 +90199,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0270fcd7-900f-4b91-99b0-b87ae2b6bc79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0b07d3a7-1153-426f-903b-9a23d5bd4c52")
 		(sheetname "/")
@@ -88698,6 +90374,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4c5ee8e1-f6fc-4a32-bacc-bfd8cadd71bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b92a490-aaf5-486b-8d4c-0e37df98aa2d")
 			(effects
 				(font
 					(size 1 1)
@@ -89015,6 +90705,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1bf6ebf9-0561-4b74-b37c-534077910c48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/095fcf1f-fe23-4da3-9541-3f731aeddd2b")
 		(sheetname "/")
@@ -89316,6 +91020,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "abb1bd72-477a-4718-8a1a-a1724848527c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0da4883-4009-4e8f-a26d-6c14ee7e3cdd")
 			(effects
 				(font
 					(size 1 1)
@@ -89642,6 +91360,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0fb650fb-f618-4084-971f-5f08ee620a20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/82337902-0205-4b45-b607-9c9ad9515b56")
 		(sheetname "/")
@@ -89803,6 +91535,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "19d0de98-dd2a-416e-9390-25abcdb22e02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "344b4a50-5835-4604-a851-184658d26f3a")
 			(effects
 				(font
 					(size 1 1)
@@ -90121,6 +91867,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6cd8e079-1982-4970-b595-88b92a7cc278")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "025747ff-6dd3-4e7b-9c01-8acb7d23e262")
 			(effects
 				(font
 					(size 1 1)
@@ -95331,6 +97091,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "025efcab-4a10-493b-9262-0f875749df27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/2f8c6171-43f8-4e05-94ad-993116a98886")
 		(sheetname "/")
@@ -95632,6 +97406,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1fa85b53-647d-4094-830e-6a70d9384f4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c690ccec-acad-4b2b-ae6c-f0322f060052")
 			(effects
 				(font
 					(size 1 1)
@@ -95958,6 +97746,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ed3ea34e-b294-4c9c-96ef-d91af8f08964")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6fe724aa-3c10-461e-b606-db425f5aa4ed")
 		(sheetname "/")
@@ -96119,6 +97921,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "38e3e5af-8ded-4465-bd2e-6ba6d6868c59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d7c35db-49f8-4798-89cd-5fcd5c0bc3fa")
 			(effects
 				(font
 					(size 1 1)
@@ -96445,6 +98261,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "52c3f0f6-c412-488f-86e5-e09ad34c2fe5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3ea275d4-9f92-41c1-889b-7f0080a0333b")
 		(sheetname "/")
@@ -96606,6 +98436,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ef8aefc3-1b0b-4538-b720-f4ae9f8af3ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "814a2df3-3e53-4ad2-babb-35003f2edb4a")
 			(effects
 				(font
 					(size 1 1)
@@ -96923,6 +98767,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2734ee95-dab2-4b66-84f0-8984e2a015ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/98f06c38-b723-4e1a-bf42-a50a5062b13d")
 		(sheetname "/")
@@ -97224,6 +99082,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "292b97bd-e1d6-41a4-926a-846295a21c2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2792b30f-004b-4fdc-8116-64678e544e98")
 			(effects
 				(font
 					(size 1 1)
@@ -97541,6 +99413,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee2b9257-f89a-413f-bf6a-f671d9631f8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/e742ee6d-ba52-415a-85f7-6faa3db751f6")
 		(sheetname "/")
@@ -97842,6 +99728,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a06ead61-ae44-472b-a5d2-e6e873c35e75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c40cc7e-90a3-44ad-beeb-a2947ebc9f31")
 			(effects
 				(font
 					(size 1 1)
@@ -98168,6 +100068,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "23473603-859b-496e-8a18-54274121d102")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7611ac9d-409c-4168-9e2e-dfa28f47fa55")
 		(sheetname "/")
@@ -98329,6 +100243,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "84a6074d-99f1-4330-86ab-212c40533f54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c704cbd5-bd44-4f02-b7ad-e65a44cc1368")
 			(effects
 				(font
 					(size 1 1)
@@ -98646,6 +100574,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "32eddeca-0746-4ec5-bd27-547b708aa31a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/67e13554-9c4c-4dfb-940d-d2aebc04743a")
 		(sheetname "/")
@@ -98901,7 +100843,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "2ed42cb3-ad6e-45e4-b293-d383cccd64ad")
@@ -98950,12 +100892,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "536bca53-a571-4893-bb02-87a4ff163f01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1949d237-a80a-48c0-95b1-772ae1ace10d")
 			(effects
 				(font
 					(size 1 1)
@@ -99142,6 +101098,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56f6bf73-eaaf-4b91-b041-8a9814ce8003")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/345bbea3-c433-489a-90a8-155a232e7b97")
 		(sheetname "/")
@@ -99320,6 +101290,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf351b8b-a5bd-4919-8fd3-d57aba00aa5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/73a5f9be-3ad8-4746-9714-a1510bece08d")
 		(sheetname "/")
@@ -99481,6 +101465,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "605e3359-711b-41d7-87f0-b68188483ebc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f1149cfa-078e-443d-a60c-159a78573338")
 			(effects
 				(font
 					(size 1 1)
@@ -99798,6 +101796,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c8ecbcc1-8af2-4ad8-bcf8-236279315d61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d921cbfd-ee1b-4122-86d2-7e75b900fc50")
 		(sheetname "/")
@@ -100099,6 +102111,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9aa93fbf-154e-4812-9ede-3aa06a11f55d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b23adf4-7599-4e62-a3fc-02a3233f65a2")
 			(effects
 				(font
 					(size 1 1)
@@ -100438,6 +102464,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e4a69faf-2297-4842-b6a1-e71724b7e4dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/9e776afa-21ca-46c6-8a5e-23179d71e07d")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -100677,6 +102717,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b172c68d-52a6-4b1b-a9da-9938b1571438")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6a0ee488-a27a-4e32-8549-b0359a16bb77")
 			(effects
 				(font
 					(size 1 1)
@@ -100986,6 +103040,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e7e2776f-79a9-4dd3-8c00-181aeaf83dd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9084305f-8774-4634-9bb0-fe53a4056472")
 			(effects
 				(font
 					(size 1 1)
@@ -101316,6 +103384,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "be909af0-7d88-4367-b0ea-2542b9138eb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "47301617-3e80-4767-9206-335bac9142bb")
 			(effects
 				(font
 					(size 1 1)
@@ -101679,6 +103761,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a880c2a8-16c9-46e8-b08d-90b0086159bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e602a5f1-524e-47e8-b8c0-87c827af002e")
 		(sheetname "/")
@@ -101840,6 +103936,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6b184bce-7b6e-4d02-8714-9f2f9b866f2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "484e8390-6577-4de5-9d5e-275d6f0bccf5")
 			(effects
 				(font
 					(size 1 1)
@@ -102178,6 +104288,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "625eaed6-6403-4c35-8ad1-5ad46db0b977")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a6b26782-1c0f-4163-9236-3102e7fc3a33")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -102426,6 +104550,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a7004e31-97e9-45a3-a19c-e0a696671e83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8ce7c5d-ac14-4b7c-bdb3-e571c64d5d1c")
 			(effects
 				(font
 					(size 1 1)
@@ -102752,6 +104890,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9129575a-a70c-4c53-a889-1bb354ac6635")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b61efa19-4356-46ae-8750-158ba59eafc3")
 		(sheetname "/")
@@ -102935,6 +105087,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "14176312-e00b-40d1-a7e0-e00e41e5068a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ecd37b99-c720-4a41-acfd-1e17682ee14b")
 			(effects
 				(font
 					(size 1 1)
@@ -103199,6 +105365,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2ba3765-03ce-49b9-8d3e-c5f2cf84a0b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/bcd70b02-1772-4b11-b8e5-b6daba275af5")
 		(sheetname "/")
@@ -103314,7 +105494,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "cb7bd727-4cd2-4174-aaa4-83656f8c3103")
@@ -103363,12 +105543,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6cc8c044-94d8-4351-92d6-6f685fd979a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3acf72be-f32d-42c3-a7b3-d6d44753735a")
 			(effects
 				(font
 					(size 1 1)
@@ -103538,6 +105732,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d976a453-120f-444a-a6be-2781488f9062")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5e1e9c9-5f4f-4e9f-b84f-9dc10cb37ffb")
 			(effects
 				(font
 					(size 1 1)
@@ -103847,6 +106055,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8197eff5-e210-42b0-aad2-c41933cc37c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ce20587a-07cc-40a9-9b27-448f94ba8083")
 			(effects
 				(font
 					(size 1 1)
@@ -104173,6 +106395,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e5f6f9b-9251-4ebb-b711-22fb14b20d92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fa9413fe-762f-4992-88fc-c8a865c9e7a4")
 		(sheetname "/")
@@ -104334,6 +106570,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a25b50eb-5499-4cf3-ba82-e4599c0e2501")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ec73bda-3f0b-4c74-915c-f163619122f0")
 			(effects
 				(font
 					(size 1 1)
@@ -104660,6 +106910,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07f39716-4c3a-4816-a409-68aff6d0f3de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/826a1226-597c-4942-b8e9-f287385657a3")
 		(sheetname "/")
@@ -104821,6 +107085,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b1fb68c1-050e-4291-8f80-8418d496ed11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f9032c01-14f9-4a5f-a014-da02c92d1aaa")
 			(effects
 				(font
 					(size 1 1)
@@ -105151,6 +107429,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "98d68549-6e7d-4135-831d-3b6f58703639")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2062630-f830-4625-9ee8-ef0661ac15d5")
 			(effects
 				(font
 					(size 1 1)
@@ -105518,6 +107810,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "854cb376-59af-478a-9704-188bb9ac5788")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/16b4c8bf-771f-4c58-b0b3-622b007aecf0")
 		(sheetname "/")
@@ -105819,6 +108125,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7c8fd159-206d-4663-aed5-1fd754f5a9f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "31c3b9de-00d9-4b6d-b33b-c0aaa1304e55")
 			(effects
 				(font
 					(size 1 1)
@@ -106136,6 +108456,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d789669-ccdc-4885-9bcd-70b0c5b122be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/df963611-669d-40f8-9f71-bbc9786ae072")
 		(sheetname "/")
@@ -106437,6 +108771,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3aadbdc3-12e3-4af4-b697-432b06548185")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "184c3bb0-dbdb-4199-a854-8cab1813d340")
 			(effects
 				(font
 					(size 1 1)
@@ -106754,6 +109102,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5a9f798-ea48-4485-b63d-d7c5922221e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/657e3e33-7212-4435-bcc5-f5132a745aea")
 		(sheetname "/")
@@ -107063,6 +109425,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7aac6ba6-4a1c-49c9-bb69-7e9202fc4e8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/99464ecc-4f01-4a0a-9dab-691ff1873a99")
 		(sheetname "/")
@@ -107364,6 +109740,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bb0b361c-73e9-4c6a-8456-5f78f4880a38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "24f68007-3173-45ab-a0b7-9d49f3b42e73")
 			(effects
 				(font
 					(size 1 1)
@@ -107690,6 +110080,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92b4bd22-76bd-4500-b4ee-fa2fad5e7cd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/233baaa2-a9c0-4ffa-a3d2-44c02bf3d43a")
 		(sheetname "/")
@@ -107851,6 +110255,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "48e04032-de70-43d5-aa9e-34050a3fee61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d4d97dfb-84f1-4606-a68e-b2ed377c9250")
 			(effects
 				(font
 					(size 1 1)
@@ -108168,6 +110586,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "312baee2-847d-4c8a-a92a-4072de31845f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/119cfcdb-68d0-4dd1-82aa-4157c7643806")
 		(sheetname "/")
@@ -108469,6 +110901,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bf008733-8e04-4f61-b056-853fe65bdb8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fff1eaac-393d-46ef-8ebd-31871dceb9e3")
 			(effects
 				(font
 					(size 1 1)
@@ -108786,6 +111232,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "85f6900b-56cf-4cec-9585-8b03deac7dce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/3b3fb36a-84d4-4f6b-8ae4-a05c05ed7bf4")
 		(sheetname "/")
@@ -109087,6 +111547,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7a31a629-3eaa-4c0e-8c0f-e318d702f2c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f5a964e8-b11f-41e0-9666-5ebce15ee405")
 			(effects
 				(font
 					(size 1 1)
@@ -109404,6 +111878,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "701c305b-4bec-4883-ae15-dfd9d578423e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/b3c91230-23f8-4af0-80cd-caab8a8e5236")
 		(sheetname "/")
@@ -109705,6 +112193,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c41522b8-5b11-4431-a9a9-1c74e4d99a74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "95631de6-1955-41b8-8843-be169f0e80f2")
 			(effects
 				(font
 					(size 1 1)
@@ -110022,6 +112524,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d8e0c7e2-0679-45e9-888d-dfcf50311dc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/80b808e6-789b-48e1-a595-74242863bf54")
 		(sheetname "/")
@@ -110331,6 +112847,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5702dcef-67f4-46ac-87b4-bfd1fd8a4aef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/a2c2220c-7f1f-498b-8017-4bf9efa7393d")
 		(sheetname "/")
@@ -110632,6 +113162,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9fc6fcaf-ba1f-489a-9720-0c3f6f3d550a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d529564-e6ea-4828-82aa-e846736c4d9e")
 			(effects
 				(font
 					(size 1 1)
@@ -110958,6 +113502,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c98e0cd-ec13-42bb-b4db-2332bf9c6e32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1db7f168-9463-467b-b5ae-8ac3928b0caf")
 		(sheetname "/")
@@ -111136,6 +113694,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c38e5cc-f008-49f2-b2e1-c4decd04533b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1f9fd290-7532-4107-9dae-9d20e378b4b4")
 		(sheetname "/")
@@ -111297,6 +113869,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "568e1091-5e9e-44b4-ba11-7b230a614e9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "efc4990f-682a-4344-b189-9915e9759a3a")
 			(effects
 				(font
 					(size 1 1)
@@ -111614,6 +114200,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "33446df8-150d-44c4-812f-2d5d300ec5cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/587e322a-b05f-4b9c-8c77-02131c29adf6")
 		(sheetname "/")
@@ -111915,6 +114515,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6f9f6b5c-d50f-4198-af10-c047a0e877e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5215e3e-69a9-4797-ad1a-2e6279c5598f")
 			(effects
 				(font
 					(size 1 1)
@@ -112232,6 +114846,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ac54435b-cfd3-4860-8930-d9867fce7f10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d332047f-620b-454f-b5c4-729fce3579d2")
 		(sheetname "/")
@@ -112533,6 +115161,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "accff9a4-bdc9-4cee-962c-c7c33d1ddaed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe6187c3-ed31-4e81-b0d6-7c94858f3ccf")
 			(effects
 				(font
 					(size 1 1)
@@ -112850,6 +115492,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8df64665-2b5a-4161-b594-3ad37d94e5ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/208403b6-5f94-4c64-a9d6-ee9bc37a027b")
 		(sheetname "/")
@@ -113151,6 +115807,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "82b5cfc4-8d5b-4522-aab6-94c9e5ad60a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "de1ca244-5429-41e4-b83d-20f1c7b120e5")
 			(effects
 				(font
 					(size 1 1)
@@ -113468,6 +116138,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fd26be7e-6eec-4116-afcb-9be51d857819")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/a19c5ef2-474c-4799-8b07-d2a4fe55871e")
 		(sheetname "/")
@@ -113769,6 +116453,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6bfdc4e7-889a-4cf4-80fa-2ad2eb6bfa60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1e6d959d-be78-42cd-8248-19d36351f91a")
 			(effects
 				(font
 					(size 1 1)
@@ -114086,6 +116784,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3ef6ceca-696b-4fb2-a1fb-d7a84f35573a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/823794ca-9ea1-43c4-bb38-4be5cf818464")
 		(sheetname "/")
@@ -114387,6 +117099,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a29b72b-a8db-4e48-b347-f1bdc2e7c19f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b031de42-f197-403f-b24a-107342981e12")
 			(effects
 				(font
 					(size 1 1)
@@ -114726,6 +117452,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "387b5fca-1175-419a-a7f1-b6e3dcd10016")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/d6d66dc4-e848-47e9-8920-0dcec3c89746")
 		(sheetname "/")
 		(sheetfile "Auth75.kicad_sch")
@@ -114965,6 +117705,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f95c38a2-dd1a-4496-b10c-16d8bc303051")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "80c6012b-89ef-49b7-95ee-fe7fdf879487")
 			(effects
 				(font
 					(size 1 1)
@@ -115282,6 +118036,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "060e8c35-8275-40fe-a00f-43393ca34a6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/d2947a7d-6610-4e5c-882d-1ddd44a20e07")
 		(sheetname "/")
@@ -115591,6 +118359,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "057b5eb9-bddb-40f3-a171-9618fdcaca3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/1d91241a-d3dd-4e06-b9bd-941a15d46dde")
 		(sheetname "/")
@@ -115846,7 +118628,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "0c5cf2ec-9379-463a-a79b-16d44f71dc4f")
@@ -115895,12 +118677,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2be145d7-d17c-4fdd-8b8c-fbfd21be64d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6965560b-df93-4583-9048-21d18bc8a1db")
 			(effects
 				(font
 					(size 1 1)
@@ -116024,7 +118820,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "56k"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "4fe22e62-c6fe-48b2-b337-e039dd71fd16")
@@ -116073,12 +118869,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part" "C23186"
+		(property "LCSC Part" "C23206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7c8c7f0a-3158-459c-b2ea-abdb63ac4c09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f68568b6-7487-4225-8658-353bfffaf99b")
 			(effects
 				(font
 					(size 1 1)
@@ -116270,6 +119080,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "111f79a3-ca0a-4ede-9b37-e10357e3721c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "917707a1-3f91-4418-9790-633d6bcc291b")
 			(effects
 				(font
 					(size 1 1)
@@ -116517,6 +119341,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4480b6e7-8e70-4779-a323-4d381b320524")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fae13760-a22e-48e0-a6d5-fd8e347533ac")
 			(effects
 				(font
 					(size 1 1)

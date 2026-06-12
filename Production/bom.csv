@@ -8,7 +8,8 @@ KYOCERA AVX FPC Connector,FPC1,CONN-SMD_10P-P0.50_046809610110846,1,046809610110
 MMBT3904,"Q1, Q2, Q3",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,3,MMBT3904-C20526,$0.0095,C20526,https://jlcpcb.com/partdetail/C20526
 SS8550 Y2,Q4,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,1,SS8550_C8542,$0.0134,C8542,https://jlcpcb.com/partdetail/C8542
 FS8205A,Q5,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,1,FS8205A_C2830320,$0.0470,C2830320,https://jlcpcb.com/partdetail/C2830320
-Resistors 5.1k,"R1, R12, R13, R2, R3, R4, R5, R6, R7, R8",0603,10,5.1k,$0.0016,C23186,https://jlcpcb.com/partdetail/C23186
+Resistors 5.1k,"R1, R12, R13, R2",0603,4,5.1k,$0.0016,C23186,https://jlcpcb.com/partdetail/C23186
+Resistors 56k,"R3, R4, R5, R6, R7, R8",0603,6,56k,$0.0016,C23206,https://jlcpcb.com/partdetail/C23206
 Resistors 1k,"R10, R11, R14, R16, R19, R9",0603,6,1k,$0.0016,C21190,https://jlcpcb.com/partdetail/C21190
 Resistors 100,"R15",0603,1,100,$0.0016,C22775,https://jlcpcb.com/partdetail/C22775
 Resistors 4.7k,"R17, R18",0603,2,4.7k,$0.0016,C23162,https://jlcpcb.com/partdetail/C23162
